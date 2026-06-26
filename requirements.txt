@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-core
+langchain-community
+fastembed
+langchain-groq
+groq
+faiss-cpu
+PyMuPDF
+duckduckgo-search
+youtube-transcript-api
+beautifulsoup4
+python-dotenv
